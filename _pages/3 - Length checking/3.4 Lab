@@ -1,0 +1,28 @@
+---
+title: 3.6 Lab
+author: Jorge Carvalho
+date: 13-01-2025
+category: Jekyll
+layout: post
+---
+
+##### Setting Up the Docker Image for OWASP-SKF Lab
+To set up the OWASP-SKF Lab using Docker, follow these steps:
+
+Pull the Docker Image
+Download the OWASP-SKF Lab image from the Docker repository by running the following command:
+```bash
+sudo docker pull blabla1337/owasp-skf-lab:sqli
+```
+
+Run the Docker Container
+Start the container and bind it to your local machine on port 5000 using the command below:
+
+```bash
+sudo docker run -ti -p 0.0.0.0:5000:5000 blabla1337/owasp-skf-lab:sqli
+```
+
+Access the Application
+Open your web browser and navigate to http://127.0.0.1:5000 to access the OWASP-SKF Lab.
+
+You're all set to begin exploring and testing with the OWASP-SKF Lab!
