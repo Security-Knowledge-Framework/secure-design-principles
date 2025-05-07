@@ -1,0 +1,19 @@
+---
+title: 4.6 LFI Lab
+author: Jorge Carvalho
+date: 13-01-2025
+category: Jekyll
+layout: post
+---
+
+##### Setting Up the Lab for LFI 1
+
+You can follow the full write-up that includes detailed setup instructions for the LFI 1 lab at the following link:
+
+[LFI 1 Write-up on GitBook](https://skf.gitbook.io/asvs-write-ups/local-file-inclusion-1-lfi-1/lfi-1)
+
+Alternatively, you can directly start the lab from the [SecureBy.Design platform](https://secureby.design) by deploying the lab environment, as shown in the image below:
+
+![LFI Lab Deploy Button](/assets/gitbook/images/lfi-lab-deploy.jpeg)
+
+You're all set to dive into the Local File Inclusion lab!
