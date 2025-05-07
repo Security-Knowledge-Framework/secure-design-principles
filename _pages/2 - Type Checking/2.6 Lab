@@ -1,28 +1,19 @@
 ---
-title: 2.6 Lab
+title: 2.6 CMD Lab
 author: Jorge Carvalho
 date: 13-01-2025
 category: Jekyll
 layout: post
 ---
 
-##### Setting Up the Docker Image for OWASP-SKF Lab
-To set up the OWASP-SKF Lab using Docker, follow these steps:
+##### Setting Up the Lab for CMD Injection 1
 
-Pull the Docker Image
-Download the OWASP-SKF Lab image from the Docker repository by running the following command:
-```bash
-sudo docker pull blabla1337/owasp-skf-lab:cmd
-```
+You can follow the full write-up that includes detailed setup instructions for the CMD Injection 1 lab at the following link:
 
-Run the Docker Container
-Start the container and bind it to your local machine on port 5000 using the command below:
+[CMD Injection 1 Write-up on GitBook](https://skf.gitbook.io/asvs-write-ups/command-injection-cmd/cmd-injection-1)
 
-```bash
-sudo docker run -ti -p 127.0.0.1:5000:5000 blabla1337/owasp-skf-lab:cmd
-```
+Alternatively, you can directly start the lab from the [SecureBy.Design platform](https://secureby.design) by deploying the lab environment, as shown in the image below:
 
-Access the Application
-Open your web browser and navigate to http://127.0.0.1:5000 to access the OWASP-SKF Lab.
+![CMD Injection Lab Deploy Button](/assets/gitbook/images/cmd-lab-deploy.jpeg)
 
-You're all set to begin exploring and testing with the OWASP-SKF Lab!
+You're all set to dive into the Command Injection lab!
