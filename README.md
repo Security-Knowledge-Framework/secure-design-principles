@@ -35,6 +35,9 @@ Explore basic threat modeling practices to systematically analyze the security o
 ### IDOR (Authorization Flaws)
 Gain insights into common authorization flaws like IDOR, and learn strategies to ensure robust authorization checks that confirm a user’s rights to access or modify resources.
 
+### Output Encoding / XSS
+Learn how output encoding can prevent Cross-Site Scripting (XSS) vulnerabilities by ensuring that user-controlled data is safely rendered in various browser contexts (HTML, attributes, JavaScript, CSS, and URLs). This section provides guidance on proper encoding practices depending on where untrusted data ends up in the page, and how defenses like CSP (Content Security Policy) and sandboxing can enhance protection.
+
 ## Target Audience
 
 This guide is specifically crafted for:
