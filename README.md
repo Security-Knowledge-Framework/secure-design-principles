@@ -12,12 +12,6 @@ Welcome to the Secure Design Principles for Software Development. This guide is 
 
 This repository provides a structured guide on key secure design principles, including whitelisting, type checking, length checking, threat modeling, and addressing authorization flaws. Each section is crafted to be straightforward, providing developers with clear guidance on how to integrate these practices into their coding processes effectively.
 
-## Prerequisites
-
-Before diving into the secure design principles, ensure the following:
-- **Development Environment Setup:** You should have a basic development environment set up for code experimentation and testing.
-- **Basic Understanding of Application Security:** Some familiarity with application security concepts will be beneficial, though the guide is designed to be accessible to beginners.
-
 ## Secure Design Principles
 
 ### Whitelisting
