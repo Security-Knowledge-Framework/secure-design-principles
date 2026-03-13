@@ -1,0 +1,19 @@
+---
+title: 3.6 SQLi Lab
+author: Jorge Carvalho
+date: 13-01-2025
+category: Jekyll
+layout: post
+---
+
+##### Setting Up the Lab for SQLi
+
+You can follow the full write-up that includes detailed setup instructions for the SQLi lab at the following link:
+
+[SQLi Union Select Write-up on GitBook](https://skf.gitbook.io/asvs-write-ups/sqli-union/sqli-union-select)
+
+Alternatively, you can directly start the lab from the [SecureBy.Design platform](https://secureby.design) by deploying the lab environment, as shown in the image below:
+
+![SQLi Lab Deploy Button](/assets/gitbook/images/sqli-lab-deploy.jpeg)
+
+You're all set to dive into the SQL Injection lab!
