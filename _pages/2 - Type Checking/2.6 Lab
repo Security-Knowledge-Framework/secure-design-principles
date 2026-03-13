@@ -1,0 +1,19 @@
+---
+title: 2.6 CMD Lab
+author: Jorge Carvalho
+date: 13-01-2025
+category: Jekyll
+layout: post
+---
+
+##### Setting Up the Lab for CMD Injection 1
+
+You can follow the full write-up that includes detailed setup instructions for the CMD Injection 1 lab at the following link:
+
+[CMD Injection 1 Write-up on GitBook](https://skf.gitbook.io/asvs-write-ups/command-injection-cmd/cmd-injection-1)
+
+Alternatively, you can directly start the lab from the [SecureBy.Design platform](https://secureby.design) by deploying the lab environment, as shown in the image below:
+
+![CMD Injection Lab Deploy Button](/assets/gitbook/images/cmd-lab-deploy.jpeg)
+
+You're all set to dive into the Command Injection lab!
